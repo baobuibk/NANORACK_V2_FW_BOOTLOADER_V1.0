@@ -1,0 +1,8 @@
+../Drivers/Flash/flash.c:9:6:FLASH_Unlock	1
+../Drivers/Flash/flash.c:14:6:FLASH_Lock	1
+../Drivers/Flash/flash.c:18:28:FLASH_WaitForOperation	3
+../Drivers/Flash/flash.c:27:21:FLASH_Write_Byte	3
+../Drivers/Flash/flash.c:43:21:FLASH_Write_HalfWord	3
+../Drivers/Flash/flash.c:59:21:FLASH_Write_Word	3
+../Drivers/Flash/flash.c:74:21:FLASH_Erase_Sectors	3
+../Drivers/Flash/flash.c:89:21:FLASH_Erase_All	3

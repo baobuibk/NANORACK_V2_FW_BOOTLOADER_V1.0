@@ -1,0 +1,9 @@
+../Drivers/scheduler/scheduler.c:36:1:SchedulerSysTickIntHandler	1
+../Drivers/scheduler/scheduler.c:64:6:SchedulerInit	1
+../Drivers/scheduler/scheduler.c:83:10:scheduler_get_tick	1
+../Drivers/scheduler/scheduler.c:105:1:SchedulerRun	4
+../Drivers/scheduler/scheduler.c:160:1:SchedulerTaskEnable	3
+../Drivers/scheduler/scheduler.c:212:1:SchedulerTaskDisable	2
+../Drivers/scheduler/scheduler.c:238:1:SchedulerTickCountGet	1
+../Drivers/scheduler/scheduler.c:263:1:SchedulerElapsedTicksGet	1
+../Drivers/scheduler/scheduler.c:290:1:SchedulerElapsedTicksCalc	1

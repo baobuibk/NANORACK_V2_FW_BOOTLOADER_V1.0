@@ -1,0 +1,17 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:1792:26:LL_USART_IsActiveFlag_RXNE	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:1814:26:LL_USART_IsActiveFlag_TXE	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:1979:22:LL_USART_ClearFlag_RXNE	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2035:22:LL_USART_EnableIT_RXNE	2
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2057:22:LL_USART_EnableIT_TXE	2
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2153:22:LL_USART_DisableIT_TXE	2
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2403:25:LL_USART_ReceiveData8	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2438:22:LL_USART_TransmitData9	1
+../Drivers/UART/UART.c:22:6:USART1_IRQ	5
+../Drivers/UART/UART.c:39:6:USART1_init	1
+../Drivers/UART/UART.c:45:6:USART1_send_char	2
+../Drivers/UART/UART.c:52:6:USART1_send_string	2
+../Drivers/UART/UART.c:58:6:USART1_send_array	2
+../Drivers/UART/UART.c:64:9:USART1_rx_count	1
+../Drivers/UART/UART.c:68:10:USART1_read_char	1
+../Drivers/UART/UART.c:79:6:USART1_close	2
+../Drivers/UART/UART.c:91:24:uart_get_USART1_rx_buffer_address	1
